@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: material.unity3d
+      Dependencies: {}
+    Info_1:
+      Name: cube.unity3d
+      Dependencies:
+        Dependency_0: material.unity3d

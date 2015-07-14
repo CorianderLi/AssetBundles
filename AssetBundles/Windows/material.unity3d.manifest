@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 1886783944
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5177f1466bb981acacb61380352be282
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e3d1bbda6b47c8af72022fe7ef4d8576
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Scripts/Util/AssetManager/Prefabs/UnityLogo.png
+- Assets/Scripts/Util/AssetManager/Prefabs/MyMaterial.mat
+Dependencies: []

@@ -1,0 +1,13 @@
+E:\work\AssetBundle\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\work\AssetBundle\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\work\AssetBundle\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\work\AssetBundle\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+E:\work\AssetBundle\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\work\AssetBundle\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\work\AssetBundle\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\work\AssetBundle\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\work\AssetBundle\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\work\AssetBundle\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+E:\work\AssetBundle\obj\Debug\UnityVS.AssetBundle.CSharp.csprojResolveAssemblyReference.cache
+E:\work\AssetBundle\obj\Debug\Assembly-CSharp.dll
+E:\work\AssetBundle\obj\Debug\Assembly-CSharp.pdb
